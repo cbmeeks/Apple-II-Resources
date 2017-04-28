@@ -1,6 +1,9 @@
 # Apple-II-Resources
 A collection of Apple II related resources on GitHub
 
+Created by D Finnigan at https://groups.google.com/d/msg/comp.sys.apple2.programmer/up_bnlCQzNE/l7P3VqPKBwAJ
+
+
 ### Proto Language AsSeMbler for Apple
 https://github.com/dschmenk/PLASMA 
 
