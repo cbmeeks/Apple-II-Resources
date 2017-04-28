@@ -108,3 +108,94 @@ https://github.com/RasppleII/a2cloud
 
 ### a2RetroSystems Memory Expansion Plus 
 https://github.com/a2retrosystems/mxp 
+
+### Merlin Assembler Macros for Apple IIgs System Software 
+https://github.com/roughana/supermacs
+
+### Fast bootable Read Track/Sector routine (single) 
+https://github.com/peterferrie/0boot
+
+### AppleWin
+https://github.com/AppleWin/AppleWin 
+
+### Apple 2 HGR Byte Inspector 
+https://github.com/Michaelangel007/apple2_hgrbyte
+
+### Apple 2 HGR Font 6502 Assembly Language Tutorial 
+https://github.com/Michaelangel007/apple2_hgr_font_tutorial 
+
+### BrainFuck 6502 Interpreter for the Apple ][ //e 
+https://github.com/Michaelangel007/brainfuck6502 
+
+### printm - a modular micro printf replacement for 65C02 
+https://github.com/Michaelangel007/apple2_printm 
+
+### Roland Gustafsson's RWTS18 original source code. 
+https://github.com/Michaelangel007/apple2_rwts18 
+
+### Thunderware Thunderclock Plus 
+https://github.com/Michaelangel007/apple2_thunderclock
+
+### TCP/IP stack for the Apple IIgs, in 65816 assembly language. 
+https://sourceforge.net/projects/marinetti/ 
+
+### Disk transfer software for Apple II-era computers 
+https://sourceforge.net/projects/adtpro/ 
+
+### Apple II GS emulator based on Kent Dickey's KEGS 
+https://sourceforge.net/projects/gsport/ 
+
+### Catakig: an emulator of the venerable Apple II personal computer. 
+https://sourceforge.net/projects/catakig/ 
+
+### Java-based tool for Apple II disk images 
+https://sourceforge.net/projects/applediskbrowse/ 
+
+### A FPGA based programmable hardware card for the Apple II 
+https://sourceforge.net/projects/applecb/ 
+
+### Command shell & program launcher - for the Apple II 
+https://sourceforge.net/projects/davex/ 
+
+### VM02 is a Java compatible environment for the Apple II series of computers. 
+https://sourceforge.net/projects/vm02/ 
+
+### VI editor for 6502 based systems 
+https://sourceforge.net/projects/vi65/ 
+
+### Mouse A.I. simulation for the Apple II computer. 
+https://sourceforge.net/projects/mouse-maze/ 
+
+### WiFi for machines based on the 65xx CPU family. 
+https://sourceforge.net/projects/wifi65/ 
+
+### Apple DOS File System (ADFS) 
+https://sourceforge.net/projects/adfs/ 
+
+### Apple II graphical web browser, using uIP and Uthernet, RamWorks III type AUX RAM card. 
+https://sourceforge.net/projects/appleiigraphica/ 
+
+### SPL is a cross-compiler for a simple language. 
+https://sourceforge.net/projects/spl65/ 
+
+### A Complete Apple II/II+ Emulator written in Java 
+https://sourceforge.net/projects/japple2/ 
+
+### Epple ][ 
+https://github.com/cmosher01/Epple-II.git 
+
+### DiskBrowser (very actively developed, supersedes applediskbrowse on SourceForge) 
+https://github.com/dmolony/DiskBrowser 
+
+### Apple II Disk Tools 
+https://github.com/cmosher01/Apple-II-Disk-Tools 
+
+### LinApple 
+https://github.com/timob/linapple 
+
+### OpenEmulator 
+https://github.com/OpenEmulatorProject/OpenEmulator-OSX 
+
+### LLVM-6502 
+https://github.com/c64scene-ar/llvm-6502 
+
